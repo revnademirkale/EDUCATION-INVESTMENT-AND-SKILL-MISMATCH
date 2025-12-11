@@ -43,10 +43,6 @@ IMPORTANT:
 The notebook may require some time to execute due to extensive model training and clustering operations performed within certain sections.
 -----------------------------------------------------------
 
-
-PROJECT MEMBERS:
------------------------------------------------------------
-Ali Kumral
 Revna Demirkale
 -----------------------------------------------------------
 
